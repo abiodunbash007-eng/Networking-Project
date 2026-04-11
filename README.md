@@ -24,7 +24,9 @@ The company wants its new departments and office connected through a router and 
 
 As part of its internal IT development program, I was assigned as a junior network engineer to design and implement a secure and efficient small office network using Cisco Packet. The network must support day-to-day operations while protecting sensitive internal services from unauthorized access.
 
-My Role I have been engaged as a Junior Network Engineer & Cybersecurity Analyst to support DatNet LTD. My responsibility is to build the network and confirm communication and apply Access Control Lists (ACLs) to limit unnecessary access between departments. I am expected to deliver actionable insights that will help leadership make informed decisions and prevent further operational or financial deterioration.
+My Role 
+
+I have been engaged as a Junior Network Engineer & Cybersecurity Analyst to support DatNet LTD. My responsibility is to build the network and confirm communication and apply Access Control Lists (ACLs) to limit unnecessary access between departments. I am expected to deliver actionable insights that will help leadership make informed decisions and prevent further operational or financial deterioration.
 
 
 This project demonstrates how network administrators can use ACLs to enhance security, reduce unauthorized access, and regulate communication paths in a simple routed environment.
